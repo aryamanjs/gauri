@@ -4,19 +4,20 @@ import { useState } from "react";
 import Image from "next/image";
 
 const noTextsArr = [
-  "No",
-  "Are you sure?",
-  "Really?",
-  "Are you positive",
-  "Just think about it",
-  "if you say no, I'll be very sad",
-  "I'll be very sad",
-  "I'll be very very very sad",
-  "Ok fine, I'll stop asking...",
-  "Just kidding, PLEASE SAY YES",
-  "You're breaking my heart ;(",
-  "No",
+  "No 🥺?",
+  "Gullu, are you sureee? 🐰",
+  "Like... really really sure? 😳",
+  "But you're my favorite hooman 🧸",
+  "What if I give you unlimited hugs? 🤗",
+  "If you say no, my heart will explode into glittery tears 😢",
+  "Gullu, you don’t wanna make me cry right? 🥺",
+  "I'll be the saddest teddy in the world 🐻💔",
+  "Okay... I guess I'll stop asking... 😔",
+  "SIKE!! Gullu PLEASE SAY YES 🥹💖",
+  "You’re literally breaking my soft lil heart rn 💔😭",
+  "Still no? wow... you’re too cute to be this cruel 😩"
 ];
+
 
 enum Stages {
   stageNo = "stage-no",
