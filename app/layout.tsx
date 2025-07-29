@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Valentine",
+  title: "Gullu say YES",
   description: "My Valentine",
   verification: {
     google: "tBMC6Cdldk7qGoDdcdwwvKPBSiRURtd02xVU9AO4kxw",
